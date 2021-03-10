@@ -1,2 +1,2 @@
-# Trex_Final_Runner
-The Blind Game. Actually about Monkey
+# p5.play-boilerplate
+Boiler plate for p5.play
